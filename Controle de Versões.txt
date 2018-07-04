@@ -1,0 +1,7 @@
+1.0 - Classes modeladas.
+
+2.0 - Adicionado cadastro de cliente e corretor.
+
+2.1 - Adicionado cadastro de imóveis e corrigido o cadastro de 2 ojetos iguais.
+    - Bug em cadastrar imovel. Não sei transformar String em Cliente para o cadastro.
+    - Pode-se otimizar o metodo updateList passando por parametro qual list ser atualizado, mas não sei fazer isso.
